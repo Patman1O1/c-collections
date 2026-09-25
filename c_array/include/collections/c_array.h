@@ -1,5 +1,5 @@
-#ifndef C_ARRAY_H
-#define C_ARRAY_H
+#ifndef C_COLLECTIONS_ARRAY_H
+#define C_COLLECTIONS_ARRAY_H
 
 #ifdef __cplusplus
 extern "C" {
@@ -9,4 +9,4 @@ extern "C" {
 }
 #endif // #ifdef __cplusplus
 
-#endif // #ifndef C_ARRAY_H
+#endif // #ifndef C_COLLECTIONS_ARRAY_H
