@@ -1,5 +1,5 @@
-#ifndef C_HTABLE_H
-#define C_HTABLE_H
+#ifndef C_COLLECTIONS_HTABLE_H
+#define C_COLLECTIONS_HTABLE_H
 
 #ifdef __cplusplus
 extern "C" {
@@ -9,4 +9,4 @@ extern "C" {
 }
 #endif // #ifdef __cplusplus
 
-#endif // #ifndef C_HTABLE_H
+#endif // #ifndef C_COLLECTIONS_HTABLE_H
