@@ -2,5 +2,4 @@
 #include <stdlib.h>
 
 // Local Includes
-#include <collections/htable.h>
-    
+#include <collections/htable.h> 
