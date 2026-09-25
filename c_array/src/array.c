@@ -1,7 +1,6 @@
+// ISO Includes
+#include <stdlib.h>
 
-    // ISO Includes
-    #include <stdlib.h>
-
-    // Local Includes
-    #include <collections/htable.h>
+// Local Includes
+#include <collections/htable.h>
     
