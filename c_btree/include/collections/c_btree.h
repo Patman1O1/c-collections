@@ -1,5 +1,5 @@
-#ifndef C_BTREE_H
-#define C_BTREE_H
+#ifndef C_COLLECTIONS_BTREE_H
+#define C_COLLECTIONS_BTREE_H
 
 #ifdef __cplusplus
 extern "C" {
@@ -9,4 +9,4 @@ extern "C" {
 }
 #endif // #ifdef __cplusplus
 
-#endif // #ifndef C_BTREE_H
+#endif // #ifndef C_COLLECTIONS_BTREE_H
